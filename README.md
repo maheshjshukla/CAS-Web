@@ -18,7 +18,7 @@ and enable ubuntu and wsl2 from settings.
 5) Take a git clone of the project here.
 `git clone https://github.com/maheshjshukla/CAS-Web`
 
-`cd Alumbloom-Web`
+`cd CAS-Web`
 
 6) Run following docker command
 `docker-compose build`
